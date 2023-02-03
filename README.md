@@ -1,4 +1,4 @@
-# sma_sunnyboy_modbus_data
+# SMA Sunny Boy modbus data collector
 
 Requirements:
  - SunnyBoy inverter (tested with SB-5.0-1AV-4I 5KW II)
